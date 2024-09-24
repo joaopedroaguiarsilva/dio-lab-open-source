@@ -14,12 +14,12 @@ Sou apaixonado por tecnologia e sempre em busca de aprender novas habilidades.
 - BTP dentro do SAP (estudando)
 
 ## 💼 Experiência Profissional
-Trabalho voluntário dentro da faculdade, ensinando informática básica para idosos na região.
+Trabalho voluntário dentro da faculdade, ensinando informática básica para idosos da região.
 
 
 
 ## 🎓 Educação
-- **Sistemas de Informação** - IFMG (2024 - Presente) Conclusão(2027)
+- **Sistemas de Informação** - IFMG Sabará (2024 - Presente) Conclusão(2027)
 
 ## 📫 Contato
 - **Email:** joaopedroaguiarsilva8@gmail.com
